@@ -13,7 +13,8 @@ Tools and Librery:
 
 1. Python programming language
 2. Pandas library for data manipulation and analysis
-3. Matplotlib and Seaborn libraries for data visualizatio
+3.  NumPy library for numerical computations
+
 
 Summary:
 
